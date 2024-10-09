@@ -1,0 +1,2 @@
+Resource,Zone,Existing_Cap_MW,New_Build,Cap_Size,Max_Cap_MWh,Min_Cap_MWh,Inv_Cost_per_MWyr,Inv_Cost_per_MWhyr,Fixed_OM_Cost_per_MWyr,Fixed_OM_Cost_per_MWhyr,Var_OM_Cost_per_MWh,Var_OM_Cost_per_MWhyr,Charge_Efficiency,Discharge_Efficiency,Self_Discharge_Rate,Min_Power,Ramp_Rate_MW_per_hr,Rsv_Cost,Reg_Cost,On_Off
+Battery_4hr_1,1,0,1,1,10000,0,23395,58488,0,0,0,0,0.9,0.9,0,0,100,0,0,1

@@ -1,0 +1,2 @@
+Resource,Zone,Existing_Cap_MW,New_Build,Cap_Size,Min_Cap,Max_Cap_MWh,Min_Cap_MWh,Inv_Cost_per_MWyr,Fixed_OM_Cost_per_MWyr,Var_OM_Cost_per_MWh,Heat_Rate_MMBTU_per_MWh,Fuel
+NGCT_1,1,1000,1,1,0,5000,0,77106,6431.67,11.13,9.451,NaturalGas
